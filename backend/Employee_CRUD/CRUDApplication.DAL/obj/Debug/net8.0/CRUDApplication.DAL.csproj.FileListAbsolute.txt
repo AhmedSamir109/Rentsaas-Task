@@ -1,0 +1,15 @@
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\bin\Debug\net8.0\CRUDApplication.DAL.deps.json
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\bin\Debug\net8.0\CRUDApplication.DAL.runtimeconfig.json
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\bin\Debug\net8.0\CRUDApplication.DAL.dll
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\bin\Debug\net8.0\CRUDApplication.DAL.pdb
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.csproj.AssemblyReference.cache
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.AssemblyInfoInputs.cache
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.AssemblyInfo.cs
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.csproj.CoreCompileInputs.cache
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.sourcelink.json
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.dll
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\refint\CRUDApplication.DAL.dll
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.pdb
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\CRUDApplication.DAL.genruntimeconfig.cache
+D:\workSpace\Rentsaas Task\backend\CRUDApplication\CRUDApplication.DAL\obj\Debug\net8.0\ref\CRUDApplication.DAL.dll

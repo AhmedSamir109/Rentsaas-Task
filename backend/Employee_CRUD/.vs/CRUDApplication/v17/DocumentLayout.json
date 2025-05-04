@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.apis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|solutionrelative:crudapplication.apis\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|solutionrelative:crudapplication.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.apis\\crudapplication.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|solutionrelative:crudapplication.apis\\crudapplication.apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|solutionrelative:crudapplication.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.apis\\crudapplication.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5AC6839C-AB4E-4191-8C4E-DDA8E2184FB7}|CRUDApplication.APIs\\CRUDApplication.APIs.csproj|solutionrelative:crudapplication.apis\\crudapplication.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD6857C-9BA3-4B27-B4D2-8E0CA950C1C9}|CRUDApplication.DAL\\CRUDApplication.DAL.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD6857C-9BA3-4B27-B4D2-8E0CA950C1C9}|CRUDApplication.DAL\\CRUDApplication.DAL.csproj|solutionrelative:crudapplication.dal\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD6857C-9BA3-4B27-B4D2-8E0CA950C1C9}|CRUDApplication.DAL\\CRUDApplication.DAL.csproj|d:\\workspace\\rentsaas task\\backend\\crudapplication\\crudapplication.dal\\crudapplication.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD6857C-9BA3-4B27-B4D2-8E0CA950C1C9}|CRUDApplication.DAL\\CRUDApplication.DAL.csproj|solutionrelative:crudapplication.dal\\crudapplication.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUDApplication.APIs.csproj",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\CRUDApplication.APIs.csproj",
+              "RelativeDocumentMoniker": "CRUDApplication.APIs\\CRUDApplication.APIs.csproj",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\CRUDApplication.APIs.csproj",
+              "RelativeToolTip": "CRUDApplication.APIs\\CRUDApplication.APIs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T11:24:46.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDApplication.APIs.http",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\CRUDApplication.APIs.http",
+              "RelativeDocumentMoniker": "CRUDApplication.APIs\\CRUDApplication.APIs.http",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\CRUDApplication.APIs.http",
+              "RelativeToolTip": "CRUDApplication.APIs\\CRUDApplication.APIs.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-02T11:24:21.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDApplication.APIs\\Program.cs",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\Program.cs",
+              "RelativeToolTip": "CRUDApplication.APIs\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:53:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDApplication.APIs\\appsettings.json",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\appsettings.json",
+              "RelativeToolTip": "CRUDApplication.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T19:21:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUDApplication.APIs\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.APIs\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUDApplication.APIs\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:13:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.DAL\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDApplication.DAL\\Model\\Employee.cs",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.DAL\\Model\\Employee.cs",
+              "RelativeToolTip": "CRUDApplication.DAL\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:10:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUDApplication.DAL.csproj",
+              "DocumentMoniker": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.DAL\\CRUDApplication.DAL.csproj",
+              "RelativeDocumentMoniker": "CRUDApplication.DAL\\CRUDApplication.DAL.csproj",
+              "ToolTip": "D:\\workSpace\\Rentsaas Task\\backend\\CRUDApplication\\CRUDApplication.DAL\\CRUDApplication.DAL.csproj",
+              "RelativeToolTip": "CRUDApplication.DAL\\CRUDApplication.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T19:10:10.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
