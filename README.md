@@ -1,4 +1,3 @@
 # Rentsaas-task
 
-**back end server Link**
-https://employeecrudsystem.runasp.net/api
+**Application Live Demo** : https://employeecrudsystem.runasp.net/api
