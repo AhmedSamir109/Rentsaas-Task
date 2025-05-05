@@ -1,10 +1,10 @@
 # Rentsaas-task
 
-**Application Live Demo** : https://sunny-shortbread-664693.netlify.app/#/display-all
+1. **Application Live Demo** : https://sunny-shortbread-664693.netlify.app/#/display-all
 
-**Backend Server** : https://employeecrudsystem.runasp.net/api
+2. **Backend Server** : https://employeecrudsystem.runasp.net/api
 
 
-**To Run Frontend project local**
-1. git clone
-2. run the local server " ng s -o "
+3. **To Run Frontend project local**
+  1. git clone
+  2. run the local server " ng s -o "
