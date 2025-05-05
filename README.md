@@ -6,5 +6,5 @@
 
 
 3. **To Run Frontend project local**
-  1. git clone
-  2. run the local server " ng s -o "
+    * git clone
+    * run the local server " ng s -o "
